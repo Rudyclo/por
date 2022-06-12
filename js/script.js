@@ -1,6 +1,6 @@
 /* ============================== typing animation ============================ */
 var typed = new Typed(".typing",{
-    strings:["","Web Designer","Web Developer","Graphic Designer","YouTuber"],
+    strings:["","대학생","편집자","모의 해커 준비생","대학생"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
@@ -90,3 +90,4 @@ const nav = document.querySelector(".nav"),
                     allSection[i].classList.toggle("open");
                 }
             }
+
